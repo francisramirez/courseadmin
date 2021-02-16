@@ -1,0 +1,17 @@
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Api\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Api\bin\Debug\netcoreapp2.1\CourseAdmin.Api.deps.json
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Api\bin\Debug\netcoreapp2.1\CourseAdmin.Api.runtimeconfig.json
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Api\bin\Debug\netcoreapp2.1\CourseAdmin.Api.runtimeconfig.dev.json
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Api\bin\Debug\netcoreapp2.1\CourseAdmin.Api.dll
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Api\bin\Debug\netcoreapp2.1\CourseAdmin.Api.pdb
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Api\obj\Debug\netcoreapp2.1\CourseAdmin.Api.AssemblyInfoInputs.cache
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Api\obj\Debug\netcoreapp2.1\CourseAdmin.Api.AssemblyInfo.cs
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Api\obj\Debug\netcoreapp2.1\CourseAdmin.Api.csproj.CoreCompileInputs.cache
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Api\obj\Debug\netcoreapp2.1\CourseAdmin.Api.RazorAssemblyInfo.cache
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Api\obj\Debug\netcoreapp2.1\CourseAdmin.Api.RazorAssemblyInfo.cs
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Api\obj\Debug\netcoreapp2.1\CourseAdmin.Api.RazorTargetAssemblyInfo.cache
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Api\obj\Debug\netcoreapp2.1\CourseAdmin.Api.dll
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Api\obj\Debug\netcoreapp2.1\CourseAdmin.Api.pdb
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Api\obj\Debug\netcoreapp2.1\CourseAdmin.Api.genruntimeconfig.cache

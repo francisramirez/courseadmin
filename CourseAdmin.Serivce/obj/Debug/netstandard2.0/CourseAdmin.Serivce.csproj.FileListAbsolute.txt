@@ -1,0 +1,14 @@
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Serivce\bin\Debug\netstandard2.0\CourseAdmin.Serivce.deps.json
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Serivce\bin\Debug\netstandard2.0\CourseAdmin.Serivce.dll
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Serivce\bin\Debug\netstandard2.0\CourseAdmin.Serivce.pdb
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Serivce\bin\Debug\netstandard2.0\CourseAdmin.Domain.dll
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Serivce\bin\Debug\netstandard2.0\CourseAdmin.Respository.dll
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Serivce\bin\Debug\netstandard2.0\CourseAdmin.Domain.pdb
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Serivce\bin\Debug\netstandard2.0\CourseAdmin.Respository.pdb
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Serivce\obj\Debug\netstandard2.0\CourseAdmin.Serivce.csprojAssemblyReference.cache
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Serivce\obj\Debug\netstandard2.0\CourseAdmin.Serivce.AssemblyInfoInputs.cache
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Serivce\obj\Debug\netstandard2.0\CourseAdmin.Serivce.AssemblyInfo.cs
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Serivce\obj\Debug\netstandard2.0\CourseAdmin.Serivce.csproj.CoreCompileInputs.cache
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Serivce\obj\Debug\netstandard2.0\CourseAdmin.Serivce.csproj.CopyComplete
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Serivce\obj\Debug\netstandard2.0\CourseAdmin.Serivce.dll
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Serivce\obj\Debug\netstandard2.0\CourseAdmin.Serivce.pdb

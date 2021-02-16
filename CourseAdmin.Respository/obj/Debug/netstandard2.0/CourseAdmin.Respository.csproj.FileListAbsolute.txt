@@ -1,0 +1,12 @@
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Respository\bin\Debug\netstandard2.0\CourseAdmin.Respository.deps.json
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Respository\bin\Debug\netstandard2.0\CourseAdmin.Respository.dll
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Respository\bin\Debug\netstandard2.0\CourseAdmin.Respository.pdb
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Respository\bin\Debug\netstandard2.0\CourseAdmin.Domain.dll
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Respository\bin\Debug\netstandard2.0\CourseAdmin.Domain.pdb
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Respository\obj\Debug\netstandard2.0\CourseAdmin.Respository.csprojAssemblyReference.cache
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Respository\obj\Debug\netstandard2.0\CourseAdmin.Respository.AssemblyInfoInputs.cache
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Respository\obj\Debug\netstandard2.0\CourseAdmin.Respository.AssemblyInfo.cs
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Respository\obj\Debug\netstandard2.0\CourseAdmin.Respository.csproj.CoreCompileInputs.cache
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Respository\obj\Debug\netstandard2.0\CourseAdmin.Respository.csproj.CopyComplete
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Respository\obj\Debug\netstandard2.0\CourseAdmin.Respository.dll
+C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Respository\obj\Debug\netstandard2.0\CourseAdmin.Respository.pdb
