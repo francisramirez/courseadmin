@@ -10,3 +10,15 @@ C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Respository\obj\Debug\netstandard2.0
 C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Respository\obj\Debug\netstandard2.0\CourseAdmin.Respository.csproj.CopyComplete
 C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Respository\obj\Debug\netstandard2.0\CourseAdmin.Respository.dll
 C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Respository\obj\Debug\netstandard2.0\CourseAdmin.Respository.pdb
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Respository\bin\Debug\netstandard2.0\CourseAdmin.Respository.deps.json
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Respository\bin\Debug\netstandard2.0\CourseAdmin.Respository.dll
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Respository\bin\Debug\netstandard2.0\CourseAdmin.Respository.pdb
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Respository\bin\Debug\netstandard2.0\CourseAdmin.Domain.dll
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Respository\bin\Debug\netstandard2.0\CourseAdmin.Domain.pdb
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Respository\obj\Debug\netstandard2.0\CourseAdmin.Respository.csprojAssemblyReference.cache
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Respository\obj\Debug\netstandard2.0\CourseAdmin.Respository.AssemblyInfoInputs.cache
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Respository\obj\Debug\netstandard2.0\CourseAdmin.Respository.AssemblyInfo.cs
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Respository\obj\Debug\netstandard2.0\CourseAdmin.Respository.csproj.CoreCompileInputs.cache
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Respository\obj\Debug\netstandard2.0\CourseAdmin.Respository.csproj.CopyComplete
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Respository\obj\Debug\netstandard2.0\CourseAdmin.Respository.dll
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Respository\obj\Debug\netstandard2.0\CourseAdmin.Respository.pdb

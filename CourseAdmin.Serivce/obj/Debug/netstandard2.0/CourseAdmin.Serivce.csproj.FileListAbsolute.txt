@@ -12,3 +12,17 @@ C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Serivce\obj\Debug\netstandard2.0\Cou
 C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Serivce\obj\Debug\netstandard2.0\CourseAdmin.Serivce.csproj.CopyComplete
 C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Serivce\obj\Debug\netstandard2.0\CourseAdmin.Serivce.dll
 C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Serivce\obj\Debug\netstandard2.0\CourseAdmin.Serivce.pdb
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Serivce\bin\Debug\netstandard2.0\CourseAdmin.Serivce.deps.json
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Serivce\bin\Debug\netstandard2.0\CourseAdmin.Serivce.dll
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Serivce\bin\Debug\netstandard2.0\CourseAdmin.Serivce.pdb
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Serivce\bin\Debug\netstandard2.0\CourseAdmin.Domain.dll
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Serivce\bin\Debug\netstandard2.0\CourseAdmin.Respository.dll
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Serivce\bin\Debug\netstandard2.0\CourseAdmin.Domain.pdb
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Serivce\bin\Debug\netstandard2.0\CourseAdmin.Respository.pdb
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Serivce\obj\Debug\netstandard2.0\CourseAdmin.Serivce.csprojAssemblyReference.cache
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Serivce\obj\Debug\netstandard2.0\CourseAdmin.Serivce.AssemblyInfoInputs.cache
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Serivce\obj\Debug\netstandard2.0\CourseAdmin.Serivce.AssemblyInfo.cs
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Serivce\obj\Debug\netstandard2.0\CourseAdmin.Serivce.csproj.CoreCompileInputs.cache
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Serivce\obj\Debug\netstandard2.0\CourseAdmin.Serivce.csproj.CopyComplete
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Serivce\obj\Debug\netstandard2.0\CourseAdmin.Serivce.dll
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Serivce\obj\Debug\netstandard2.0\CourseAdmin.Serivce.pdb

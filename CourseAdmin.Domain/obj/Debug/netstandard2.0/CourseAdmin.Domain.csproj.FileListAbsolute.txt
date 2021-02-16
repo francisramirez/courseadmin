@@ -6,3 +6,12 @@ C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Domain\obj\Debug\netstandard2.0\Cour
 C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Domain\obj\Debug\netstandard2.0\CourseAdmin.Domain.csproj.CoreCompileInputs.cache
 C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Domain\obj\Debug\netstandard2.0\CourseAdmin.Domain.dll
 C:\Cursos\Proyectos\CourseAdmin\CourseAdmin.Domain\obj\Debug\netstandard2.0\CourseAdmin.Domain.pdb
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Domain\bin\Debug\netstandard2.0\CourseAdmin.Domain.deps.json
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Domain\bin\Debug\netstandard2.0\CourseAdmin.Domain.dll
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Domain\bin\Debug\netstandard2.0\CourseAdmin.Domain.pdb
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Domain\obj\Debug\netstandard2.0\CourseAdmin.Domain.csprojAssemblyReference.cache
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Domain\obj\Debug\netstandard2.0\CourseAdmin.Domain.AssemblyInfoInputs.cache
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Domain\obj\Debug\netstandard2.0\CourseAdmin.Domain.AssemblyInfo.cs
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Domain\obj\Debug\netstandard2.0\CourseAdmin.Domain.csproj.CoreCompileInputs.cache
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Domain\obj\Debug\netstandard2.0\CourseAdmin.Domain.dll
+C:\Users\framirez\source\repos\francisramirez\courseadmin\CourseAdmin.Domain\obj\Debug\netstandard2.0\CourseAdmin.Domain.pdb
